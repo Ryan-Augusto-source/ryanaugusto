@@ -1,5 +1,6 @@
 # Olá! Eu sou o Ryan Augusto
-Projetos feitos em grupo/solo.
+
+Sou Estudante de Análise e Desenvolvimento de Sistemas!
 
 
 <div style="display: inline_block"><br>
