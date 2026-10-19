@@ -7,7 +7,7 @@ Sou Estudante de Análise e Desenvolvimento de Sistemas!
   <img src="docs/appIcon.svg" width="100px" alt="GitHub Stats Extended Logo" />
   <h1>GitHub Stats Extended</h1>
   <p>Dynamically generate GitHub stats for your READMEs.</p>
-<a href="https://github-stats-extended.vercel.app/api?username=anuraghazra">
+<a href="https://github-stats-extended.vercel.app/api?username=ryanaugusto">
   <picture>
     <source
       srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=dark_github"
