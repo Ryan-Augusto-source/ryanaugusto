@@ -4,8 +4,7 @@ Sou Estudante de Análise e Desenvolvimento de Sistemas!
 
 
 <div>
-  <h1>Meus Status Do GitHub</h1>
-  <p>Meus Status</p>
+  <h1>Status</h1>
 <a href="https://github-stats-extended.vercel.app/api?username=ryanaugusto">
   <picture>
     <source
