@@ -4,16 +4,15 @@ Sou Estudante de Análise e Desenvolvimento de Sistemas!
 
 
 <div align="center">
-  <img src="docs/appIcon.svg" width="100px" alt="GitHub Stats Extended Logo" />
-  <h1>GitHub Stats Extended</h1>
-  <p>Dynamically generate GitHub stats for your READMEs.</p>
+  <h1>Meus Status Do GitHub</h1>
+  <p>Meus Status</p>
 <a href="https://github-stats-extended.vercel.app/api?username=ryanaugusto">
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api?username=ryanaugusto&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=light_github" />
+    <img src="https://github-stats-extended.vercel.app/api?username=ryanaugusto&theme=light_github" />
   </picture>
 </a>
 </div>
