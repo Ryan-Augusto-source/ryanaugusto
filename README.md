@@ -3,7 +3,7 @@
 Sou Estudante de Análise e Desenvolvimento de Sistemas!
 
 
-<div align="center">
+<div>
   <h1>Meus Status Do GitHub</h1>
   <p>Meus Status</p>
 <a href="https://github-stats-extended.vercel.app/api?username=ryanaugusto">
